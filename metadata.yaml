@@ -1,0 +1,38 @@
+_repo: Asser-s-Life-of-King-Alfred_63384
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Cook, Albert S. (Albert Stanburrough)
+    alias: Cook, Albert Stanburrough
+    birthdate: 1853
+    deathdate: 1927
+    gutenberg_agent_id: '5565'
+    url: http://www.gutenberg.org/2009/agents/5565
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Stanburrough_Cook
+creator:
+  author:
+    agent_name: Asser, John
+    aliases:
+    - Asker, John
+    - Asser, Joannes Menevensis
+    - Asser, Bp. of Sherborne
+    deathdate: 909
+    gutenberg_agent_id: '52415'
+    url: http://www.gutenberg.org/2009/agents/52415
+    wikipedia: https://en.wikipedia.org/wiki/Asser
+description: ''
+gutenberg_issued: '2020-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63384'
+  lccn: 06000684
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Alfred, King of England, 849-899'
+- GITenberg
+title: Asser's Life of King Alfred
+url: http://www.gutenberg.org/ebooks/63384
